@@ -1,3 +1,3 @@
 # Vehicle-Crash-Data-Visualization
 Crash Data Visualization
-[ChristopherLinViz.pdf](https://github.com/user-attachments/files/24011389/ChristopherLinViz.pdf)
+![ChristopherLinViz-page-001](https://github.com/user-attachments/assets/e633cba1-bed7-4859-aef9-f6188d687990)
