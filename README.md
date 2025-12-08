@@ -5,6 +5,6 @@
 * The tool was developed so that users (researchers, activists, the public) can explore crash data by location, type of crash (injury, fatality, pedestrian, cyclist, motorist), time range, and other filters.
 ### Tools 
 * Tableau (Heat Maps, Time over Quantity Graphs, Interactive Charts with Maps)
-* Excel
+* Excel (CSV files, Filters for Empty Data removal)
 ### Visualization: [Tableau Link](https://public.tableau.com/app/profile/christopher.lin1994/viz/ChristopherLinVizProject/RiskandLocation)
 ![ChristopherLinViz-page-001](https://github.com/user-attachments/assets/e633cba1-bed7-4859-aef9-f6188d687990)
